@@ -37,11 +37,13 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "Junior SEO remote",
-    "Technical SEO remote",
-    "SEO Content Editor remote",
-    "SEO Python remote",
-    "WordPress SEO Specialist remote",
+    "Junior UI UX Designer remote",
+    "Product Designer remote",
+    "UI UX designer remote",
+    "UI Designer remote",
+    "UI/UX designer remote",
+    "UX/UI designer remote",
+    "Web Designer remote",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
@@ -49,12 +51,22 @@ BLACKLIST_KEYWORDS = [
     "us residents only",
     "must reside in us",
     "must be located in the us",
+    "australia only",
     "must be based in",
-    "senior",
-    "director",
+    "commission only",
     "agency",
+    "volunteer",
+    "unpaid",
+    "europe only",
+    "uk only",
+    "lead",
+    "head of",
+    "vice president",
+    "vp of",
+    "on side",
+    "hybrid",
     "full stack",
-    "fullstack",
+    
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
