@@ -54,7 +54,6 @@ BLACKLIST_KEYWORDS = [
     "australia only",
     "must be based in",
     "commission only",
-    "agency",
     "volunteer",
     "unpaid",
     "europe only",
@@ -65,8 +64,6 @@ BLACKLIST_KEYWORDS = [
     "vp of",
     "on side",
     "hybrid",
-    "full stack",
-    
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
